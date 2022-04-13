@@ -15,11 +15,11 @@ Find information about temperature trends before opening the surf shop. Specific
 
 ## Results:
 
-###Summary Statistics for December
+Summary Statistics for December
 
 ![Summary Statistics for June](Results/Summary Statistics for June.png)	
 
-###Summary Statistics for December
+Summary Statistics for December
 
 ![Summary Statistics for December](Results/Summary Statistics for December.png)
 
