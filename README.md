@@ -14,27 +14,45 @@ Find information about temperature trends before opening the surf shop. Specific
 
 ## Results:
 
--Summary Statistics for June:
+### Temp Summary Statistics for June:
 
-count:	1700.000000
-mean:	74.944118
-std:	3.257417
-min:	64.000000
-25%:	73.000000
-50%:	75.000000
-75%:	77.000000
-max:	85.000000
 
--Summary Statistics for December:
+-count:	1700.000000
 
-count:	1517.000000
-mean:	71.041529
-std:	3.745920
-min:	56.000000
-25%:	69.000000
-50%:	71.000000
-75%:	74.000000
-max:	83.000000
+-mean:	74.944118
+
+-std:	3.257417
+
+-min:	64.000000
+
+-25%:	73.000000
+
+-50%:	75.000000
+
+-75%:	77.000000
+
+-max:	85.000000
+
+
+
+### Temp Summary Statistics for December:
+
+
+-count:	1517.000000
+
+-mean:	71.041529
+
+-std:	3.745920
+
+-min:	56.000000
+
+-25%:	69.000000
+
+-50%:	71.000000
+
+-75%:	74.000000
+
+-max:	83.000000
 
 
 ## Summary:
