@@ -5,7 +5,6 @@ Using Python, Pandas functions and methods, and SQLAlchemy, to filter the date c
 
 ### Purpose:
 Find information about temperature trends before opening the surf shop. Specifically, temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
-.
 
 ## Resources
 
@@ -15,17 +14,12 @@ Find information about temperature trends before opening the surf shop. Specific
 
 ## Results:
 
-
 ###Summary Statistics for June
-
 
 ![Summary Statistics for June](Results/Summary Statistics for June.png)	
 
-
 ###Summary Statistics for December
 
-
 ![Summary Statistics for December](Results/Summary Statistics for December.png)
-
 
 ## Summary:
