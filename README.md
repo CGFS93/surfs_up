@@ -1,11 +1,20 @@
 # surfs_up
-Jupyter Notebook, VS Code, and GitHub
-Overview of the statistical analysis:
 
-The purpose of the analysis is well defined. (3 pt)
-Results:
+## Overview of the Analysis:
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+### Purpose:
+
+.
+
+## Resources
+
+**Data Source:** .csv, .csv.
+
+**Software:** Jupyter, Python graphing library Matplotlib.
+
+## Results:
+
+![](analysis/.png)	
+
+## Summary:
