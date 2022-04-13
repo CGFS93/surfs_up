@@ -14,12 +14,21 @@ Find information about temperature trends before opening the surf shop. Specific
 
 ## Results:
 
-###Summary Statistics for June
+Summary Statistics for June
 
 ![Summary Statistics for June](Results/Summary Statistics for June.png)	
 
-###Summary Statistics for December
+Summary Statistics for December
 
 ![Summary Statistics for December](Results/Summary Statistics for December.png)
 
 ## Summary:
+Result Development:
+Write a query that filters the date column from the Measurement table to retrieve all the temperatures for the month of June & December.
+Convert the June & December temperatures to a list individually.
+Create a DataFrame from the list of temperatures for the month of June & December.
+Generate the summary statistics for June & December temperatures DataFrame.
+
+Additional Queries:
+Additional queries to further this analysis recommendations are to collect data of the average hours of sunshine per day, and
+average wind speeds on the coast. These measurements would help determine quality of surfing and how many optimal hours of operation for the shop.
